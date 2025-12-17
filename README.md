@@ -47,3 +47,6 @@ This project is a prototype developed for learning and demonstration purposes an
 
 ## Screenshots
 ![Screenshots](screenshots/cart.png)
+![Screenshots](screenshots/home.png)
+![Screenshots](screenshots/profile.png)
+![Screenshots](screenshots/sub.png)

@@ -46,4 +46,4 @@ The source code is not included in this repository due to project size, dependen
 This project is a prototype developed for learning and demonstration purposes and is not intended for production deployment.
 
 ## Screenshots
-Screenshots of the application UI are available in the `screenshots/` folder.
+Screenshots of the application UI are available in the `screenshots/cart.png` folder.
